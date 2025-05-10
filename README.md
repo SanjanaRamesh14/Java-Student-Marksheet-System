@@ -1,7 +1,9 @@
 📘 Java Student Marksheet Management System
+
 This is a simple Java console application that takes user input for student names and their subject-wise marks, calculates total marks, and displays a sorted mark sheet with ranks. The data is sorted in descending order based on total marks using bubble sort.
 
 💡 Features
+
 Accepts any number of students and subjects.
 
 Uses Scanner for real-time user input.
@@ -13,13 +15,14 @@ Sorts students based on their total score (rank-wise).
 Outputs a clear, structured mark sheet for each student.
 
 📂 File Structure
-bash
-Copy code
+
 StudentMarksheetSystem/
 │
 ├── StudentMarksheetWithInput.java  # Main Java program
 ├── README.md                       # Project description and usage guide
+
 🚀 How to Run
+
 Clone this repository or download the .java file.
 
 Open in any Java IDE (like IntelliJ IDEA, Eclipse) or use command line.
@@ -30,6 +33,7 @@ javac StudentMarksheetWithInput.java
 java StudentMarksheetWithInput
 
 🧪 Sample Output :
+
 Enter number of students: 2
 Enter number of subjects: 3
 Enter name of subject 1: Math
