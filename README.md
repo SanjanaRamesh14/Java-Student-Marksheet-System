@@ -16,10 +16,9 @@ Outputs a clear, structured mark sheet for each student.
 
 📂 File Structure
 
-StudentMarksheetSystem/
-│
-├── StudentMarksheetWithInput.java  # Main Java program
-├── README.md                       # Project description and usage guide
+Student Marksheet System
+ StudentMarksheetWithInput.java 
+ README.md                      
 
 🚀 How to Run
 
