@@ -1,5 +1,3 @@
-Day 02 : Implemented basic Student  Marksheet sytem using arrays, sorting concept in Java.
-
 📘 Java Student Marksheet Management System
 This is a simple Java console application that takes user input for student names and their subject-wise marks, calculates total marks, and displays a sorted mark sheet with ranks. The data is sorted in descending order based on total marks using bubble sort.
 
